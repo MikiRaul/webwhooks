@@ -1,9 +1,5 @@
 ﻿hola Mundo 1!
 hola Mundo Raul 2¡
 hola caracola
-<<<<<<< HEAD
-hola pe�a creo q ahora si me sale todo Raul
-=======
-hola a todos¡¡¡
-que pasa??
->>>>>>> refs/remotes/origin/master
+hola gente creo q ahora si me sale todo Raul
+
